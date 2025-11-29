@@ -1,6 +1,34 @@
-# nagavanshi781-pixel
+# nagvanshi781-pixel
 <!-- Profile Header -->
+<!-- Animated SVG Background with Typing Effect for Code Snippet – Data Analyst Style -->
 
+<p align="center">
+  <img src="https://svg-spinners.vercel.app/api/blocks?speed=fast&color=7cfafd" width="120" /><br>
+  <b><span style="color:#7cfafd; font-size:2em;">Hi, I'm Nagvanshi!</span></b><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=7cfafd&width=420&lines=Data+Analyst;Data+Storyteller;Python+%7C+SQL+%7C+Tableau+%7C+Pandas;" alt="Typing SVG" />
+</p>
+
+<!-- Animated Code Block (SVG) -->
+<p align="center">
+  <img src="https://github.com/aleen42/PersonalWiki/raw/master/images/typing.svg" width="320" alt="animated code" />
+</p>
+
+<!-- Animated Tech Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-130754?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-121212?style=for-the-badge&logo=plotly&logoColor=cyan" />
+</p>
+
+<!-- Optionally add a custom dark background GIF banner -->
+<p align="center">
+  <!-- Replace below with your own generated GIF for a unique touch -->
+  <img src="https://media.giphy.com/media/RhEv5briq5lik/giphy.gif" width="420" alt="dark analytics background" />
+</p>
+
+---
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Prince Soni 👋</h1>
 
