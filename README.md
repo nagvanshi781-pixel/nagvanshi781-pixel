@@ -1,19 +1,7 @@
 # nagavanshi781-pixel
 <!-- Profile Header -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagvanshi781-pixel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagvanshi781-pixel&theme=tokyonight" alt="GitHub Streak" height="180px"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagvanshi781-pixel&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nagvanshi781-pixel/nagvanshi781-pixel/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
----
 
 ## 👨‍💻 About Me
 
@@ -55,20 +43,32 @@ Repository: **[Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](http
 - Suggested actions to reduce cancellations and improve customer satisfaction  
 
 ---
-
 ## 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagvanshi781-pixel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagvanshi781-pixel&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nagvanshi781-pixel&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats for nagvanshi781-pixel" 
+    height="160"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagvanshi781-pixel&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=nagvanshi781-pixel&theme=tokyonight" 
+    alt="GitHub Streak for nagvanshi781-pixel" 
+    height="160"
+/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nagvanshi781-pixel/nagvanshi781-pixel/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagvanshi781-pixel&layout=compact&theme=tokyonight" 
+    alt="Top Languages for nagvanshi781-pixel" 
+    height="160"
+/>
 </p>
+
 
 
 ## 📂 Quick Navigation
