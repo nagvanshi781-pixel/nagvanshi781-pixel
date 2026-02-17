@@ -49,11 +49,7 @@ Repository: **[Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](http
 - Built an interactive *Power BI dashboard* and wrote SQL queries in *PostgreSQL*  
 - Delivered insights on subscription behavior, discount usage, and high-value customers  
 
-### 2️⃣ OTT Platform Analytics – Amazon Prime (SQL + Excel)  
-- Explored content performance, user ratings & regional availability  
-- Wrote SQL queries to answer business questions about genres & engagement  
-
-### 3️⃣ Ola Performance Analytics – Ride Data (Power BI + Excel)  
+### 3️⃣ Ola Performance Analytics – Ride Data (SQL + Power BI + Excel)  
 - Visualized ride bookings, cancellations & customer ratings  
 - Suggested actions to reduce cancellations and improve customer satisfaction  
 
